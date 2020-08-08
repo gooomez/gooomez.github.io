@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Gooomez is Edgar Gomez
-
-Musician and Composer 
+Gooomez is Edgar Gomez is...
