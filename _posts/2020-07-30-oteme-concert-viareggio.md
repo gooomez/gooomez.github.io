@@ -37,6 +37,8 @@ Riccardo Ienna: percussion
 
 ![](/images/uploads/2020-07-30-oteme-concert-viareggio/edgar-riccardo.jpg)
 
+![](/images/uploads/2020-07-30-oteme-concert-viareggio/orchestra-sms.jpg)
+
 ![](http://oteme.com/it/wp-content/uploads/2020/07/OTEME-Collage-Un-saluto-alle-Nuvole-4-1000.jpg)
 
-*Photo by Marta Paganucci-Claudio Bianchi/IOSCATTO*
+*Photo by Marta Paganucci - Claudio Bianchi / IOSCATTO*
