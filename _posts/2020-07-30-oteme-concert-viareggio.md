@@ -29,13 +29,13 @@ Riccardo Ienna: percussion
 
 ## Gallery
 
-![](/images/uploads/oteme-concert-30-07-2020/mixer-view.JPG)
+![](/images/uploads/2020-07-30-oteme-concert-viareggio/mixer-view.JPG)
 
-![](/images/uploads/oteme-concert-30-07-2020/emanuela-stefano.JPG)
+![](/images/uploads/2020-07-30-oteme-concert-viareggio/emanuela-stefano.JPG)
 
-![](/images/uploads/oteme-concert-30-07-2020/irene-lorenzo.JPG)
+![](/images/uploads/2020-07-30-oteme-concert-viareggio/irene-lorenzo.JPG)
 
-![](/images/uploads/oteme-concert-30-07-2020/edgar-riccardo.JPG)
+![](/images/uploads/2020-07-30-oteme-concert-viareggio/edgar-riccardo.JPG)
 
 ![](http://oteme.com/it/wp-content/uploads/2020/07/OTEME-Collage-Un-saluto-alle-Nuvole-4-1000.jpg)
 
