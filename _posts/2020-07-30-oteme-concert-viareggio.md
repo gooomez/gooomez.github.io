@@ -6,17 +6,17 @@ categories: [Shows, Oteme]
 
 On July 30th there was the band [OTEME](http://oteme.com/) in concert, presenting the new album Un Saluto alle Nuvole (Say Hello to the Clouds). With the performance of:
 
-- Chiudere quella Porta
-- Turni
-- Comprateci i CD
-- Per Mariola
-- Una Mamma Disperata
-- Un Paradiso con il Mal di Testa
-- Camminavo
 - Caduta Massi
+- Camminavo
+- Chiudere quella Porta
+- Comprateci i CD
 - [Dal Recinto](https://www.youtube.com/watch?v=OHgHkdmD-70)
 - Dieci Giorni
 - [E c'è Qualcuno](https://www.youtube.com/watch?v=9YT93GZNxfM) 
+- Per Mariola
+- Turni
+- Una Mamma Disperata
+- Un Paradiso con il Mal di Testa
 
 ## Members
 
