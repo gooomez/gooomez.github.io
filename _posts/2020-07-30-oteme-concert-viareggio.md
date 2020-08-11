@@ -12,7 +12,7 @@ On July 30th there was the band [OTEME](http://oteme.com/) in concert, presentin
 - Comprateci i CD
 - [Dal Recinto](https://www.youtube.com/watch?v=OHgHkdmD-70)
 - Dieci Giorni
-- [E c'è Qualcuno](https://www.youtube.com/watch?v=9YT93GZNxfM) 
+- [E c'è Qualcuno](https://youtu.be/uVgvKM7dsfI) 
 - Per Mariola
 - Turni
 - Una Mamma Disperata
