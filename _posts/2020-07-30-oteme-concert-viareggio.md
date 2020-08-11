@@ -22,7 +22,7 @@ On July 30th there was the band [OTEME](http://oteme.com/) in concert, presentin
 
 Irene Benedetti: voice, flute, piccolo<br />
 Lorenzo Del Pecchia: clarinet, bass clarinet<br />
-Stefano Giannotti: vocals, guitar, electric guitar, keyboards<br />
+[Stefano Giannotti](http://stefanogiannotti.com/): vocals, guitar, electric guitar, keyboards<br />
 Emanuela Lari: vocals, keyboards<br />
 Edgar Gomez: vocals, electric bass<br />
 Riccardo Ienna: percussion
