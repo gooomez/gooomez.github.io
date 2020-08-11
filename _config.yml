@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Gooomez
+name: Ramabarca
 
 # Name of the author
 author: Edgar Gomez
@@ -21,15 +21,15 @@ avatar: /images/edgar-square.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: egomez.info@gmail.com
+  email: ramabarca@gmail.com
   facebook:
   flickr:
   github:
-  instagram: g_o_o_omez
+  instagram: RamabarcaMusic
   linkedin: 
   pinterest:
   rss: rss
-  twitter: g_o_o_omez
+  twitter: RamabarcaMusic
   stackoverflow: 
   youtube: channel/UC97YMrbsmcrjCZP9FL0z4LQ # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -45,8 +45,8 @@ google_analytics: UA-35215722-19
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://gooomez.com
-enforce_ssl: https://gooomez.com
+url: http://ramabarca.com
+enforce_ssl: https://ramabarca.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
